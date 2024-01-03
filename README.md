@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+To run this first you need to download my Backend Strapi 
+Please follow the instructions as follows:
+- Take a pull of out repo:https://github.com/parshwavora/my-project
+- Run it using docker or your local command npm run after configuring db
+- Then run the npm run start and you can use my frontend
